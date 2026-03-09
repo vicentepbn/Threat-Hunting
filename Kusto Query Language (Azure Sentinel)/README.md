@@ -1,4 +1,3 @@
-# Threat-Hunting
-A repository designed to store hunting queries for detecting malicious activities across different query languages.
+In this folder you'll be able to find KQL to execute in your Microsoft Sentinel Environment.
 
-The queries are separated between languages such as KQL, SPL, Elastic Search, etc.
+Feel free to use or create your own queries :)
